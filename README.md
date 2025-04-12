@@ -82,4 +82,4 @@ Each entry in the dataset contains:
 
 You can access the full implementation here:  
 🔗 [Google Colab Notebook](https://colab.research.google.com/drive/123DngHBj80vTEU5tu0Y7gS8ZOj_PcN42?usp=sharing)
-🔗 [Dataset]([text](https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset))
+🔗 [Dataset](https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset)
