@@ -1,4 +1,4 @@
-# NLP Assignment 2 – Hate Speech and Offensive Language Detection
+# Hate Speech and Offensive Language Detection
 
 
 ##  Problem Statement
